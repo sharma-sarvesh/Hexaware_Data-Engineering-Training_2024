@@ -19,34 +19,34 @@ Hexaware_Data Engineering Trainning-Batch 3_Nov 2024
 │
 ├── Case Studies
 │   ├── CaseStudy_AirBnb_Data_Set
-│   │   ├── Airbnb CaseStudy 20-11-24.ipynb
+│   │   ├── Airbnb CaseStudy.ipynb
 │   │   ├── AB-NYC-2019.csv
-│   │   └── CaseStudy_Airbnb Listing Analysis_20-11-24.pdf
+│   │   └── CaseStudy_Airbnb Listing Analysis.pdf
 │   ├── CaseStudy_Diabetes_Data_Set
-│   │   ├── Diabetes CaseStudy 20-11-24.ipynb
+│   │   ├── Diabetes CaseStudy.ipynb
 │   │   ├── diabetes.csv
-│   │   └── CaseStudy_Diabetes Dataset Analysis_20-11-24.pdf
+│   │   └── CaseStudy_Diabetes Dataset Analysis.pdf
 │   ├── CaseStudy_Green_Farm_Analytics
-│   │   ├── GreenFarm Analytics_Case Study 21-11-24.ipynb
+│   │   ├── GreenFarm Analytics_CaseStudy.ipynb
 │   │   ├── farm_yield_data.csv
 │   │   ├── fertilizer_usage.csv
 │   │   ├── soil_data.csv
 │   │   ├── weather_data.csv
-│   │   └── suCaseStudy_GreenFarm Analysis_20-11-24mmary.pdf
+│   │   └── CaseStudy_Green_Farm_Analytics.pdf
 │   ├── CaseStudy_Movie_Lens
-│   │   ├── Movie Lens CaseStudy 26-11-24.ipynb
+│   │   ├── Movie Lens CaseStudy.ipynb
 │   │   ├── u.data.csv
 │   │   ├── u.user.csv
-│   │   └── CaseStudy_Movie Lens_26-11-24.pdf
+│   │   └── CaseStudy_Movie Lens.pdf
 │   └── CaseStudy_Wine_Data_Set
-│       ├── Wine CaseStudy 20-11-24.ipynb
+│       ├── Wine CaseStudy.ipynb
 │       ├── wine.csv
-│       └── CaseStudy_Wine Dataset Analysis_20-11-24.pdf
+│       └── CaseStudy_Wine Dataset Analysis.pdf
 │
 ├── Coding Assessments
-│   ├── 15-11-24_Python_Coding_Assessment
-│   ├── 26-11-24_Spark_and_PySpark_Coding_Assessment
-│   └── 09-12-24_Azure_Databricks_Coding_Assessment
+│   ├── 1. Python_Coding_Assessment
+│   ├── 2. Spark_and_PySpark_Coding_Assessment
+│   └── 3. Azure_Databricks_Coding_Assessment
 │
 ├── Projects
 │   ├── Project_01_ETL_Workflow_Automation
@@ -55,16 +55,16 @@ Hexaware_Data Engineering Trainning-Batch 3_Nov 2024
 │   │   ├── Platinum_notebook.ipynb
 │   │   └── application_record.csv
 │   │   └── credit_record.csv
-│   │   └── Project 1_ ETL Workflow Automation_PPT.pptx
-│   │   └── Project 01_ ETL Workflow Automation Documentation.pdf
+│   │   └── Project 01_ETL Workflow Automation_PPT.pptx
+│   │   └── Project 01_ETL Workflow Automation_Documentation.pdf
 │   └── Project_02_Customer_Behavior_Analysis
 │   │   ├── Silver_notebook.ipynb
 │   │   ├── Gold_notebook.ipynb
 │   │   ├── Logistic Regression.ipynb
 │   │   └── Online Retail.csv
-│   │   └── Project 02_Customer Behavior Analysis PPT.pptx
-│   │   └── Project 02_Customer Behavior Analysis Documentation.pdf
-└── Data Engineering Batch 3-Nov2024-JourneyBook_Sarvesh Sharma.pdf
+│   │   └── Project 02_Customer Behavior Analysis_PPT.pptx
+│   │   └── Project 02_Customer Behavior Analysis_Documentation.pdf
+└── Data Engineering Batch_2024-JourneyBook_Sarvesh Sharma.pdf
 └── README.md
 └── TRAINNING_SUMMARY.md
 ```
