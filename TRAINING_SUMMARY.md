@@ -1,6 +1,6 @@
 # Data Engineering Training Summary
 
-This document provides an overview of the comprehensive Data Engineering training I completed from November 11 to December 20, 2024. The training was conducted by Deepesh Kumar Mishra and covered essential concepts and tools for data management, processing, and engineering workflows, including SQL, Python, Apache Spark, Azure Databricks, and Azure DevOps.
+This document provides an overview of the comprehensive Data Engineering training which lasted for a month. The training covered essential concepts and tools for data management, processing, and engineering workflows, including SQL, Python, Apache Spark, Azure Databricks, and Azure DevOps.
 
 ## Training Plan Overview
 
