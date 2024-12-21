@@ -1,6 +1,6 @@
 ## Data Engineering Training - Batch 3 - Nov 2024
 
-Welcome to the Data Engineering Training repository! This repository contains all the materials, case studies, projects, and assessments completed during the training program from November 11 to December 20,2024. It is structured for easy navigation and understanding, ensuring a comprehensive overview of the learning journey.
+Welcome to the Data Engineering Training repository! This repository contains all the materials, case studies, projects, and assessments completed during the training program. It is structured for easy navigation and understanding, ensuring a comprehensive overview of the learning journey.
 
 ---
 
