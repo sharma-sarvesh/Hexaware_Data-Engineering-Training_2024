@@ -40,7 +40,7 @@ Hexaware_Data Engineering Trainning-Batch 3_Nov 2024
 │   ├── 2. Spark_and_PySpark_Coding_Assessment
 │   └── 3. Azure_Databricks_Coding_Assessment
 │
-│├── Daily Workspace 
+├── Daily Workspace 
 │   ├── Day_01
 │   │   ├── code_snippets.ipynb
 │   │   └── summary.pdf
