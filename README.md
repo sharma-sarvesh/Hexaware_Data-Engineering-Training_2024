@@ -8,14 +8,6 @@ Welcome to the Data Engineering Training repository! This repository contains al
 
 ```
 Hexaware_Data Engineering Trainning-Batch 3_Nov 2024
-├── Daily Workspace 
-│   ├── Day_01
-│   │   ├── code_snippets.ipynb
-│   │   └── summary.pdf
-│   ├── ...
-│   └── Day_20
-│       ├── code_snippets.ipynb
-│       └── summary.pdf
 │
 ├── Case Studies
 │   ├── CaseStudy_AirBnb_Data_Set
@@ -48,6 +40,15 @@ Hexaware_Data Engineering Trainning-Batch 3_Nov 2024
 │   ├── 2. Spark_and_PySpark_Coding_Assessment
 │   └── 3. Azure_Databricks_Coding_Assessment
 │
+│├── Daily Workspace 
+│   ├── Day_01
+│   │   ├── code_snippets.ipynb
+│   │   └── summary.pdf
+│   ├── ...
+│   └── Day_20
+│       ├── code_snippets.ipynb
+│       └── summary.pdf
+│
 ├── Projects
 │   ├── Project_01_ETL_Workflow_Automation
 │   │   ├── Silver_notebook.ipynb
@@ -58,12 +59,13 @@ Hexaware_Data Engineering Trainning-Batch 3_Nov 2024
 │   │   └── Project 01_ETL Workflow Automation_PPT.pptx
 │   │   └── Project 01_ETL Workflow Automation_Documentation.pdf
 │   └── Project_02_Customer_Behavior_Analysis
-│   │   ├── Silver_notebook.ipynb
-│   │   ├── Gold_notebook.ipynb
-│   │   ├── Logistic Regression.ipynb
-│   │   └── Online Retail.csv
-│   │   └── Project 02_Customer Behavior Analysis_PPT.pptx
-│   │   └── Project 02_Customer Behavior Analysis_Documentation.pdf
+│       ├── Silver_notebook.ipynb
+│       ├── Gold_notebook.ipynb
+│       ├── Logistic Regression.ipynb
+│       └── Online Retail.csv
+│       └── Project 02_Customer Behavior Analysis_PPT.pptx
+│       └── Project 02_Customer Behavior Analysis_Documentation.pdf
+│   
 └── Data Engineering Batch_2024-JourneyBook_Sarvesh Sharma.pdf
 └── README.md
 └── TRAINNING_SUMMARY.md
